@@ -1,6 +1,6 @@
 ---
 title: "A Beginner's Guide to Data Journalism attepmt in R"
-output: html_document
+output: md_document
 ---
 
 ```{r setup, include=FALSE}
