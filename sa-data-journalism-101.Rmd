@@ -72,8 +72,10 @@ g <- ggplot(data, aes(x = year, y = population, fill=region)) +
   coord_flip()
 ```
 
-Look at how pretty it is
+Look at how pretty it is 
 
 ```{r graph, include=TRUE}
 g
 ```
+
+Check out the repo: https://github.com/talnoznisky/data-jour-101
